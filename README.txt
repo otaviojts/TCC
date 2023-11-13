@@ -6,4 +6,4 @@ Discentes:
 ** Derik Barroso Pimentel
 ** Otávio Jose dos Santos
 
-Link do repositório < https://github.com/derikpimentel/TCC >
+Link do repositório < https://github.com/otaviojts/TCC >
